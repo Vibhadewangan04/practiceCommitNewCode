@@ -1,0 +1,19 @@
+Summary:  when user navigate to " https://osa-web.t-cg.co.uk/qatest" shows 404 not found error
+OS/Browser : windows/chrome
+Build number: NA
+
+
+Steps:
+1. Launch https://osa-web.t-cg.co.uk
+2. Go to school search tab >  https://osa-web.t-cg.co.uk/schoolSearch school search tab
+3. Type B16 8PE > search
+ 	Contact Group
+	5th Floor, Lyndon House
+	5862 Hagley Road, Birmingham, B16 8PE
+with active button
+4. click on active button
+5. navigate to https://osa-web.t-cg.co.uk/qatest
+
+
+Expected: when user navigate to " https://osa-web.t-cg.co.uk/qatest" should not show 404 not found error, should show all the valid contents of the page
+Actual: when user navigate to " https://osa-web.t-cg.co.uk/qatest" shows 404 not found error
