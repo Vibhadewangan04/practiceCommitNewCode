@@ -22,76 +22,6 @@
     </license>
   </licenses>
   <developers>
-    <developer>
-      <id>simon.m.stewart</id>
-      <name>Simon Stewart</name>
-      <roles>
-        <role>Owner</role>
-      </roles>
-    </developer>
-    <developer>
-      <id>dawagner</id>
-      <name>Daniel Wagner-Hall</name>
-      <roles>
-        <role>Committer</role>
-      </roles>
-    </developer>
-    <developer>
-      <id>eran.mes@gmail.com</id>
-      <name>Eran Mes</name>
-      <roles>
-        <role>Committer</role>
-      </roles>
-    </developer>
-    <developer>
-      <id>james.h.evans.jr</id>
-      <name>Jim Evans</name>
-      <roles>
-        <role>Committer</role>
-      </roles>
-    </developer>
-    <developer>
-      <id>jari.bakken</id>
-      <name>Jari Bakken</name>
-      <roles>
-        <role>Committer</role>
-      </roles>
-    </developer>
-    <developer>
-      <id>michael.tamm2</id>
-      <name>Michael Tamm</name>
-      <roles>
-        <role>Committer</role>
-      </roles>
-    </developer>
-    <developer>
-      <id>theautomatedtester</id>
-      <name>David Burns</name>
-      <roles>
-        <role>Committer</role>
-      </roles>
-    </developer>
-    <developer>
-      <id>krosenvold</id>
-      <name>Kristian Rosenvold</name>
-      <roles>
-        <role>Committer</role>
-      </roles>
-    </developer>
-    <developer>
-      <id>lsemerau</id>
-      <name>Luke Inman-Semerau</name>
-      <roles>
-        <role>Committer</role>
-      </roles>
-    </developer>
-    <developer>
-      <id>barancev</id>
-      <name>Alexei Barantsev</name>
-      <roles>
-        <role>Committer</role>
-      </roles>
-    </developer>
   </developers>
   <scm>
     <connection>scm:git:git@github.com:SeleniumHQ/selenium.git</connection>
@@ -170,24 +100,6 @@
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-exec</artifactId>
       <version>1.3</version>
-      <classifier></classifier>
-    </dependency>
-    <dependency>
-      <groupId>com.google.guava</groupId>
-      <artifactId>guava</artifactId>
-      <version>25.0-jre</version>
-      <classifier></classifier>
-    </dependency>
-    <dependency>
-      <groupId>com.squareup.okhttp3</groupId>
-      <artifactId>okhttp</artifactId>
-      <version>3.11.0</version>
-      <classifier></classifier>
-    </dependency>
-    <dependency>
-      <groupId>com.squareup.okio</groupId>
-      <artifactId>okio</artifactId>
-      <version>1.14.0</version>
       <classifier></classifier>
     </dependency>
   </dependencies>
